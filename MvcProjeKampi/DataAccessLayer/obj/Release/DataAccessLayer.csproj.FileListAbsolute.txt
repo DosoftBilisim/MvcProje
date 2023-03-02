@@ -1,0 +1,16 @@
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\bin\Release\EntityFramework.dll
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\bin\Release\EntityLayer.dll
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\bin\Release\EntityLayer.pdb
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\bin\Release\EntityFramework.xml
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.mig1.resources
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\obj\Release\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\Dosoft\source\repos\MvcProjeKampi\DataAccessLayer\obj\Release\DataAccessLayer.pdb

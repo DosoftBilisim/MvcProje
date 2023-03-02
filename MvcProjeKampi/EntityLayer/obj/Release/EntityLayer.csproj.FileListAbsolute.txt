@@ -1,0 +1,6 @@
+C:\Users\Dosoft\source\repos\MvcProjeKampi\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Dosoft\source\repos\MvcProjeKampi\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Dosoft\source\repos\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Dosoft\source\repos\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dosoft\source\repos\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Dosoft\source\repos\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.pdb
